@@ -17,7 +17,9 @@ Include checkboxes for user to select following options:
 2. Include numbers
 
 3.Add extra checkbox for including special characters
-#Assumption:
+
+
+# Assumption:
 Password Length: Users will input a positive integer for the password length.
 Default Behavior: If no checkbox is selected, only alphabets are included.
 Checkbox Options:
@@ -29,10 +31,9 @@ Temporary Hosting: The app will be hosted on a platform Netlify.
 Host On Netlify:
 	Build the App: npm run build
 	Drag and drop the build folder to the Netlify’s site:
-PASSWORD-GENERATOR SITE: Click the Link:->  https://password-machine.netlify.app/
-GitHub Link for Code Reference:  https://github.com/ShreyasiGhoshOfficial/password-generator/tree/main
+# PASSWORD-GENERATOR SITE: Click the Link:->  https://password-machine.netlify.app/
+# GitHub Link for Code Reference:  https://github.com/ShreyasiGhoshOfficial/password-generator/tree/main
 
-Snapshots:
 
  
 
