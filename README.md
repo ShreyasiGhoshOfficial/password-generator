@@ -31,10 +31,12 @@ Checkbox Options:
 Error Handling: Input validation ensures password length is valid and at least one checkbox is selected.
 Temporary Hosting: The app will be hosted on a platform Netlify.
 Host On Netlify:
+
 	Build the App: npm run build
+
 	Drag and drop the build folder to the Netlify’s site:
+
 # PASSWORD-GENERATOR SITE: Click the Link:->  https://password-machine.netlify.app/
-# GitHub Link for Code Reference:  https://github.com/ShreyasiGhoshOfficial/password-generator/tree/main
 
 
  
