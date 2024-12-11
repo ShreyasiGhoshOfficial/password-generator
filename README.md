@@ -15,4 +15,5 @@ Include checkboxes for user to select following options:
 1. Include alphabets
 
 2. Include numbers
-Add extra checkbox for including special characters
+
+3.Add extra checkbox for including special characters
