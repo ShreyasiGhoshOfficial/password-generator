@@ -21,7 +21,9 @@ Include checkboxes for user to select following options:
 
 # Assumption:
 Password Length: Users will input a positive integer for the password length.
+
 Default Behavior: If no checkbox is selected, only alphabets are included.
+
 Checkbox Options:
 1.	Include Alphabets: Checked by default.
 2.	Include Numbers: Adds numeric characters (0–9).
