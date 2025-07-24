@@ -36,8 +36,7 @@ Host On Netlify:
 
 	Drag and drop the build folder to the Netlify’s site:
 
-# PASSWORD-GENERATOR SITE: Click the Link:->  https://password-machine.netlify.app/
-
+# PASSWORD-GENERATOR SITE: Click the Link:->  https://password-generator-flax-kappa.vercel.app/
 
  
 
